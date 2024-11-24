@@ -1,0 +1,91 @@
+ * {
+    box-sizing : border-box;
+    margin: 0;
+    padding: 0;
+    color: white;
+ }
+ /* img{
+  size: 500px;
+  height: auto;
+  width: auto;
+ } */
+ h1{
+  background-color: rgb(0, 0, 250, 0.4);
+  height: fit-content;
+  font-weight: fit-content;
+  
+
+ }
+  #navbar{
+  background: purple;
+  height: 30px;
+  text-align: center;
+  padding-left: 19px;
+ }
+ a{
+  margin-right: 200px;
+  text-decoration: none;
+ }
+ h1{
+  background: #000;
+  text-align: center;
+  font-size: 40;
+  width: 50;
+  height: 100;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+  color: white;
+  background: #000;
+  text-align: center;
+}
+p{
+  color: #000;
+  text-align: center;
+  font-size: x-large;
+}
+#two {
+  background: purple;
+  text-align: center;
+}
+  #feedback{
+    text-shadow: #000;
+  }  
+
+textarea{
+  margin-left: 530px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+padding-right: 10px;
+padding-top: 10px;
+}
+button{
+  color: rgb(0, 0, 0);
+  background: orange;
+  box-sizing: border-box;
+  box-shadow: #000;
+  
+}
+
+
+#cv{
+
+  width: 50px;
+  margin-left: 280px;
+}
+#b{
+  font-size: 100px;
+  color: white;
+  background: #000;
+  padding-left: 240px ;
+  padding-right: 216px;                                                                                               ;
+}
+/* textarea{
+  text-align:  center;
+} */
+
+#p{
+  background: #000;
+  color:white;
+}
